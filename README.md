@@ -25,7 +25,8 @@ List of At-Risk Customers as well as Recommendations on next-steps.
 ## **Stakeholders:**
 Customer Experience Department
 
-## **Due Date: June 26th 2019 **
+## **Due Date:**
+June 26th 2019
 
 ## **Measures of Success:**
 The success of this project will be determined by how effective the recommendations as a result of my analysis perform in their implementation. This would be based on how many customers actually leave the company over time and how much profit is maintained. 
